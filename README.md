@@ -9,7 +9,7 @@ My name is Xilin Tian and I am a Junior student majoring in Math with a concentr
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on LinkedIn[![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
