@@ -18,5 +18,3 @@ You can find me on LinkedIn[![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/xilin-tian-a7bab1228/
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qghossbiuurqom73tx4wth74fi&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
