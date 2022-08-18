@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 My name is Xilin Tian and I am a Junior student majoring in Math with a concentration in Data Science at UC Irvine.
 
