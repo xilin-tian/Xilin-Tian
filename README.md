@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Xilin Tian and I am a Junior student majoring in Math with a concentration in Data Science in UC Irvine.
+My name is Xilin Tian and I am a Junior student majoring in Math with a concentration in Data Science at UC Irvine.
 
 <!--
 **xilin-tian/Xilin-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ You can find me on LinkedIn[![LinkedIn][3.2]][3].
 
 [3]: https://www.linkedin.com/in/xilin-tian-a7bab1228/
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qghossbiuurqom73tx4wth74fi&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
