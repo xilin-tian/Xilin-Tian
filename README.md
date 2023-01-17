@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Xilin Tian and I am a Junior student majoring in Math with a concentration in Data Science at UC Irvine.
+My name is Xilin Tian and I am a student majoring in Math with a concentration in Data Science at UC Irvine with a degree in Bachelor of Science.
 
 <!--
 **xilin-tian/Xilin-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
