@@ -1,12 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 👩 Hi, I'm Xilin Tian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <img src="https://komarev.com/ghpvc/?username=xilin-tian&style=flat-square&color=blue" alt=""/>
 
 ---
 
-👩My name is Xilin Tian 
+I am a graduate of the University of California, Irvine with a Bachelor of Science degree in Mathematics and a concentration in Data Science，
 
-I am a student majoring in Math with a concentration in Data Science at UC Irvine with a degree in Bachelor of Science.
+Currently looking for an internship related to data scientist or data analyst，
+
+Applied to graduate school in data science for fall 2023.
 
 <!--
 **xilin-tian/Xilin-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
