@@ -4,11 +4,12 @@
 
 ---
 
-I am a graduate of the University of California, Irvine with a Bachelor of Science degree in Mathematics and a concentration in Data Science，
+I have a B.S. in Mathematics and a concentration in Data Science of the University of California, Irvine，
+
+Master of Analytics in University of California, Berkeley starting at 2023 Fall.
 
 Currently looking for an internship related to data scientist or data analyst，
 
-Applied to graduate school in data science for fall 2023.
 
 <!--
 **xilin-tian/Xilin-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
