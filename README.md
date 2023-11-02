@@ -4,11 +4,11 @@
 
 ---
 
-I have a B.S. in Mathematics and a concentration in Data Science of the University of California, Irvine，
+B.S. in Mathematics with a concentration in Data Science at the University of California, Irvine，
 
-Master of Analytics in University of California, Berkeley starting at 2023 Fall.
+Master of Analytics in University of California, Berkeley starting at 2023 Fall, anticipated graduation: 08/2024.
 
-Currently looking for an internship related to data scientist or data analyst，
+Currently looking for an summer internship or Full-time job related to data scientist/analyst，machine learning engineer, and business analyst. 
 
 
 <!--
